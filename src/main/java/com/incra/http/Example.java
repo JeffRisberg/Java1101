@@ -182,7 +182,7 @@ public class Example {
   }
 
   public static void main(String[] args) throws Exception {
-    syncGet("http://github.com");
+    syncGet("https://github.com");
     //        asyncGet("https://biezhi.me");
     asyncPost();
     //        http2();
